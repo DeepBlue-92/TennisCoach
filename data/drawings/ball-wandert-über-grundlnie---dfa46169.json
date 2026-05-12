@@ -1,0 +1,117 @@
+[
+  {
+    "id": "e81c69d9-cd76-4f50-921f-cd4105f30efc",
+    "type": "huetchen",
+    "x": 0.65,
+    "y": 0.900065188059973
+  },
+  {
+    "id": "0d0acb3f-9953-41d2-8cc0-3b8ecaffc568",
+    "type": "huetchen",
+    "x": 0.5,
+    "y": 0.900065188059973
+  },
+  {
+    "id": "53f97c25-4dbd-4620-864d-5e8a37a6a41a",
+    "type": "huetchen",
+    "x": 0.35,
+    "y": 0.900065188059973
+  },
+  {
+    "id": "9e46a56f-bedc-417c-8a4d-5eb2293f9937",
+    "type": "huetchen",
+    "x": 0.20757476091686478,
+    "y": 0.900065188059973
+  },
+  {
+    "id": "32ae7e73-c951-4f96-98ca-92b49b0c2516",
+    "type": "huetchen",
+    "x": 0.8040833881495724,
+    "y": 0.900065188059973
+  },
+  {
+    "id": "6ba63789-2556-41c0-8e18-590a097aec2a",
+    "type": "laufweg",
+    "points": [
+      {
+        "x": 0.8060264129939787,
+        "y": 0.9301426557312432
+      },
+      {
+        "x": 0.20563173607245855,
+        "y": 0.9301426557312432
+      }
+    ],
+    "startArrow": true,
+    "endArrow": true
+  },
+  {
+    "id": "7dcd71bb-7205-42e3-8c5a-b7c7436d2a2f",
+    "type": "spieler",
+    "x": 0.8682032080149774,
+    "y": 0.9272319330533784,
+    "meta": {
+      "nummer": 1
+    }
+  },
+  {
+    "id": "d2e47ecf-ede7-4726-8a07-52de5628d98f",
+    "type": "trainer",
+    "x": 0.5,
+    "y": 0.1500689780634598
+  },
+  {
+    "id": "1bb05874-f58a-40ed-a334-8c3b7a29273b",
+    "type": "schlagweg",
+    "points": [
+      {
+        "x": 0.5,
+        "y": 0.1500689780634598
+      },
+      {
+        "x": 0.8040833881495724,
+        "y": 0.900065188059973
+      }
+    ],
+    "startArrow": false,
+    "endArrow": true,
+    "startElementId": "d2e47ecf-ede7-4726-8a07-52de5628d98f",
+    "endElementId": "32ae7e73-c951-4f96-98ca-92b49b0c2516"
+  },
+  {
+    "id": "106019ec-3111-445b-bb1d-0e9076ed9040",
+    "type": "schlagweg",
+    "points": [
+      {
+        "x": 0.5,
+        "y": 0.1500689780634598
+      },
+      {
+        "x": 0.65,
+        "y": 0.900065188059973
+      }
+    ],
+    "startArrow": false,
+    "endArrow": true,
+    "startElementId": "d2e47ecf-ede7-4726-8a07-52de5628d98f",
+    "endElementId": "e81c69d9-cd76-4f50-921f-cd4105f30efc"
+  },
+  {
+    "id": "8d2ec881-8e7f-4316-b6ab-b87ba5ea88f4",
+    "type": "schlagweg",
+    "points": [
+      {
+        "x": 0.5,
+        "y": 0.1500689780634598
+      },
+      {
+        "x": 0.5,
+        "y": 0.900065188059973
+      }
+    ],
+    "startArrow": false,
+    "endArrow": true,
+    "startElementId": "d2e47ecf-ede7-4726-8a07-52de5628d98f",
+    "endElementId": "0d0acb3f-9953-41d2-8cc0-3b8ecaffc568"
+  }
+]
