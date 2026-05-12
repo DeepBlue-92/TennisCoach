@@ -1,9 +1,14 @@
 ---
 titel: Ball wandert über Grundlnie
-tags: []
+tags:
+  - Vorhand
+  - Rückhand
+  - Grundlinie
 erstelltAm: '2026-05-12T21:18:42.986Z'
-aktualisiertAm: '2026-05-12T21:26:37.951Z'
+aktualisiertAm: '2026-05-12T21:28:40.199Z'
 schemaVersion: '1.0'
+schwierigkeit: 4
+laufintensitaet: 4
 id: dfa46169-e120-4e32-93fe-0d35221792ef
 ---
 ## Ablauf
