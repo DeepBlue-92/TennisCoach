@@ -6,7 +6,7 @@ tags:
   - Laufen
   - Stellungsspiel
 erstelltAm: '2026-05-12T21:42:32.870Z'
-aktualisiertAm: '2026-05-12T21:53:05.606Z'
+aktualisiertAm: '2026-05-12T22:06:20.931Z'
 schemaVersion: '1.0'
 schwierigkeit: 3
 laufintensitaet: 4
