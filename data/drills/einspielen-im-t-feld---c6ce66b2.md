@@ -1,8 +1,9 @@
 ---
 titel: Einspielen im T-Feld
-tags: []
+tags:
+  - Einspielen
 erstelltAm: '2026-05-12T21:53:18.297Z'
-aktualisiertAm: '2026-05-12T22:02:18.645Z'
+aktualisiertAm: '2026-05-12T22:03:05.899Z'
 schemaVersion: '1.0'
 dauerMinuten: 5
 id: c6ce66b2-7afe-4ad4-a8cc-f50befab6af7
