@@ -4,9 +4,9 @@ tags:
   - Aufwärmen
   - Laufen
 erstelltAm: '2026-05-12T21:35:56.687Z'
-aktualisiertAm: '2026-05-12T21:41:35.303Z'
+aktualisiertAm: '2026-05-12T21:42:04.566Z'
 schemaVersion: '1.0'
-dauerMinuten: 5
+dauerMinuten: 10
 id: 11c1661d-3890-4c98-b601-483fbf176f38
 ---
 ## Ablauf
