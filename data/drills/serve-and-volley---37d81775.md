@@ -4,8 +4,9 @@ tags:
   - Aufschlag
   - Volley
   - Laufen
+  - Stellungsspiel
 erstelltAm: '2026-05-12T21:42:32.870Z'
-aktualisiertAm: '2026-05-12T21:51:01.113Z'
+aktualisiertAm: '2026-05-12T21:53:05.606Z'
 schemaVersion: '1.0'
 schwierigkeit: 3
 laufintensitaet: 4
