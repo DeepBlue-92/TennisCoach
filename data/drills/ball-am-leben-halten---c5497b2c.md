@@ -1,13 +1,14 @@
 ---
-titel: Neue Übung
+titel: Ball am Leben halten
 tags:
   - Aufwärmen
   - Laufen
 erstelltAm: '2026-05-13T22:50:52.706Z'
-aktualisiertAm: '2026-05-13T23:02:08.220Z'
+aktualisiertAm: '2026-05-13T23:03:09.751Z'
 schemaVersion: '1.0'
 schwierigkeit: 3
 laufintensitaet: 4
+dauerMinuten: 10
 id: c5497b2c-6049-4403-9a8b-5f92d9792d1e
 ---
 ## Ablauf

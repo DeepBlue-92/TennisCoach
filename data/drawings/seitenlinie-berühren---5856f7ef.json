@@ -1,0 +1,96 @@
+[
+  {
+    "id": "8a7ccaaa-daeb-428b-8ab9-ec89989d51fd",
+    "type": "trainer",
+    "x": 0.5,
+    "y": 0.15686066431181117
+  },
+  {
+    "id": "4426bc9f-3456-4574-ad61-fd9ae98ffe15",
+    "type": "spieler",
+    "x": 0.5,
+    "y": 0.9379045828722163,
+    "meta": {
+      "nummer": 1
+    }
+  },
+  {
+    "id": "2f1c6d8b-da8a-4897-b9f7-780931916069",
+    "type": "text",
+    "x": 0.5547917826240955,
+    "y": 0.3315040249837029,
+    "meta": {
+      "text": "1. Ball zurückschlagen"
+    }
+  },
+  {
+    "id": "9a58e8c8-5bc1-4351-8bdf-346e1f8aec2e",
+    "type": "schlagweg",
+    "points": [
+      {
+        "x": 0.5,
+        "y": 0.15686066431181117
+      },
+      {
+        "x": 0.5,
+        "y": 0.9379045828722163
+      }
+    ],
+    "startArrow": true,
+    "endArrow": true,
+    "startElementId": "8a7ccaaa-daeb-428b-8ab9-ec89989d51fd",
+    "endElementId": "4426bc9f-3456-4574-ad61-fd9ae98ffe15"
+  },
+  {
+    "id": "d9c6a85b-6370-4697-b2e3-34e19d941814",
+    "type": "laufweg",
+    "points": [
+      {
+        "x": 0.5,
+        "y": 0.9379045828722163
+      },
+      {
+        "x": 0.20368871122805232,
+        "y": 0.7962494125494596
+      }
+    ],
+    "startArrow": true,
+    "endArrow": true,
+    "startElementId": "4426bc9f-3456-4574-ad61-fd9ae98ffe15"
+  },
+  {
+    "id": "6f9f5376-b097-4fcf-b170-a82b8c4c3601",
+    "type": "laufweg",
+    "points": [
+      {
+        "x": 0.5,
+        "y": 0.9379045828722163
+      },
+      {
+        "x": 0.7788240651722916,
+        "y": 0.807892303260919
+      }
+    ],
+    "startArrow": true,
+    "endArrow": true,
+    "startElementId": "4426bc9f-3456-4574-ad61-fd9ae98ffe15"
+  },
+  {
+    "id": "73df2390-4ea0-4a1c-9c1e-2f5b9c88ee31",
+    "type": "text",
+    "x": 1.0489045185447554,
+    "y": 0.7477373679183785,
+    "meta": {
+      "text": "2. Nächste Linie mit einem Fuß berühren"
+    }
+  },
+  {
+    "id": "75c3f8c1-14ea-462b-80ef-246f24e42026",
+    "type": "text",
+    "x": 0.9653544502352881,
+    "y": 0.7011658050725409,
+    "meta": {
+      "text": "3. Zurück zur Ausngagsstellung"
+    }
+  }
+]
