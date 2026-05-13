@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2803e84c-2c83-4486-a94d-97a7d1504e55",
+    "type": "trainer",
+    "x": 0.5,
+    "y": 0.32956354319845976
+  },
+  {
+    "id": "911433ac-5ee6-4ee0-9ece-a90b5ad3a5a1",
+    "type": "spieler",
+    "x": 0.5,
+    "y": 0.6555644831193245,
+    "meta": {
+      "nummer": 1
+    }
+  },
+  {
+    "id": "60e56d56-6be6-430a-8323-056520c0212f",
+    "type": "schlagweg",
+    "points": [
+      {
+        "x": 0.5,
+        "y": 0.32956354319845976
+      },
+      {
+        "x": 0.5,
+        "y": 0.6555644831193245
+      }
+    ],
+    "startArrow": true,
+    "endArrow": true,
+    "startElementId": "2803e84c-2c83-4486-a94d-97a7d1504e55",
+    "endElementId": "911433ac-5ee6-4ee0-9ece-a90b5ad3a5a1"
+  }
+]
