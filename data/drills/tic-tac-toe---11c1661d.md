@@ -4,10 +4,12 @@ tags:
   - Aufwärmen
   - Laufen
 erstelltAm: '2026-05-12T21:35:56.687Z'
-aktualisiertAm: '2026-05-12T21:42:04.566Z'
+aktualisiertAm: '2026-05-14T15:15:48.612Z'
 schemaVersion: '1.0'
 dauerMinuten: 10
 id: 11c1661d-3890-4c98-b601-483fbf176f38
+schwierigkeit: 1
+laufintensitaet: 5
 ---
 ## Ablauf
 - Schüler treten einzeln oder im Team an.
@@ -19,4 +21,3 @@ id: 11c1661d-3890-4c98-b601-483fbf176f38
 - Größe und Platzierung des Gitters ändern.
 - Zahl der Hütchen.
 - Bälle auf Hütchen ablegen anstatt Hütchen innerhalb eines Gitters.
-
