@@ -3,14 +3,23 @@
     "id": "83b6d9ad-5989-4022-9f41-783e7605fecb",
     "titel": "Training am 18.05.2026",
     "erstelltAm": "2026-05-11T16:25:28.565Z",
-    "aktualisiertAm": "2026-05-14T15:14:43.984Z",
+    "aktualisiertAm": "2026-05-14T15:39:31.974Z",
     "exerciseIds": [
       "c5497b2c-6049-4403-9a8b-5f92d9792d1e",
       "c6ce66b2-7afe-4ad4-a8cc-f50befab6af7",
       "b08fbece-9e31-426c-8ce6-459ba523abb0",
+      "a9253279-c6a1-4cf8-bd21-f6139188d3b7",
       "5856f7ef-104b-4515-928e-0c11fe37b4e8",
       "37d81775-8f06-4283-ab3b-8789a81e9855"
     ],
+    "notizen": "Vorbereitung auf das Damentraining"
+  },
+  {
+    "id": "aa99f244-cb8b-410f-9dfe-482998d49f69",
+    "titel": "Training am 18.05.2026",
+    "erstelltAm": "2026-05-14T15:42:37.316Z",
+    "aktualisiertAm": "2026-05-14T15:43:13.384Z",
+    "exerciseIds": [],
     "notizen": "Vorbereitung auf das Damentraining"
   }
 ]
