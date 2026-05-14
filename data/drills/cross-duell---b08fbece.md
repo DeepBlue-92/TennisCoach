@@ -4,12 +4,13 @@ tags:
   - Grundlinie
   - Doppel
 erstelltAm: '2026-05-14T15:00:38.424Z'
-aktualisiertAm: '2026-05-14T15:06:56.612Z'
+aktualisiertAm: '2026-05-14T15:07:40.940Z'
 schemaVersion: '1.0'
 spielerZahl: 2
 spielerZahlModifikator: ≤
 schwierigkeit: 4
 laufintensitaet: 3
+dauerMinuten: 15
 id: b08fbece-9e31-426c-8ce6-459ba523abb0
 ---
 ## Ablauf
