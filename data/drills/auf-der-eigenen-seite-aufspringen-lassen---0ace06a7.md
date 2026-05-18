@@ -1,8 +1,8 @@
 ---
-titel: Auf der eigenen Seite Aufspringen
+titel: Auf der eigenen Seite Aufspringen lassen
 tags: []
 erstelltAm: '2026-05-13T23:23:29.254Z'
-aktualisiertAm: '2026-05-13T23:27:09.923Z'
+aktualisiertAm: '2026-05-18T15:46:15.462Z'
 schemaVersion: '1.0'
 schwierigkeit: 5
 laufintensitaet: 3
