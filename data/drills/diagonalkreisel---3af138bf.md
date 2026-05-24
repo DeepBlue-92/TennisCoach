@@ -3,7 +3,7 @@ titel: Diagonalkreisel
 tags:
   - Grundlinie
 erstelltAm: '2026-05-24T19:58:17.707Z'
-aktualisiertAm: '2026-05-24T20:00:28.778Z'
+aktualisiertAm: '2026-05-24T20:05:17.570Z'
 schemaVersion: '1.0'
 dauerMinuten: 15
 laufintensitaet: 5
