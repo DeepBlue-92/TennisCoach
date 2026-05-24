@@ -1,8 +1,9 @@
 ---
 titel: Tiefer Volley
-tags: []
+tags:
+  - Volley
 erstelltAm: '2026-05-24T20:08:31.364Z'
-aktualisiertAm: '2026-05-24T20:11:13.815Z'
+aktualisiertAm: '2026-05-24T20:14:54.614Z'
 schemaVersion: '1.0'
 dauerMinuten: 10
 spielerZahl: 2
