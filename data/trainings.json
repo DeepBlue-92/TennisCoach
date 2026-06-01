@@ -24,5 +24,18 @@
     "exerciseIds": [],
     "notizen": "Vorbereitung auf das Damentraining",
     "geloeschtAm": "2026-05-24T19:31:40.706Z"
+  },
+  {
+    "id": "520fba4e-a3dc-41b1-80c8-d9ce8f5ed9a1",
+    "titel": "Training am 01.06.2026",
+    "erstelltAm": "2026-06-01T10:54:22.960Z",
+    "aktualisiertAm": "2026-06-01T10:56:07.274Z",
+    "exerciseIds": [
+      "c6ce66b2-7afe-4ad4-a8cc-f50befab6af7",
+      "b156245c-e18e-49b5-9bc3-ebfaf8ad9bff",
+      "5856f7ef-104b-4515-928e-0c11fe37b4e8",
+      "a9253279-c6a1-4cf8-bd21-f6139188d3b7",
+      "8e00e96b-bfb0-4a13-bea2-93fa3debaf19"
+    ]
   }
 ]
