@@ -57,9 +57,9 @@
   },
   {
     "id": "27b47cd6-977a-45bc-9b29-e6a4579bbcc3",
-    "titel": "Training am 24.06.2026",
+    "titel": "Training am 15.06.2026",
     "erstelltAm": "2026-06-14T21:40:39.640Z",
-    "aktualisiertAm": "2026-06-14T22:04:11.917Z",
+    "aktualisiertAm": "2026-06-21T21:38:52.827Z",
     "exerciseIds": [
       "11c1661d-3890-4c98-b601-483fbf176f38",
       "7b459481-7764-43cc-bc79-3ef967752e52",
@@ -76,12 +76,16 @@
     "id": "ebabefcb-cde5-4402-b421-5d10aee64885",
     "titel": "Training am 22.06.2026",
     "erstelltAm": "2026-06-21T21:30:28.632Z",
-    "aktualisiertAm": "2026-06-21T21:36:10.489Z",
+    "aktualisiertAm": "2026-06-21T21:39:38.537Z",
     "exerciseIds": [
       "11c1661d-3890-4c98-b601-483fbf176f38",
       "c6ce66b2-7afe-4ad4-a8cc-f50befab6af7",
       "0ace06a7-fc66-4713-a197-735e8599e28c",
-      "6c8ccbf7-eeb5-4278-b2a0-0584b6ce9888"
+      "6c8ccbf7-eeb5-4278-b2a0-0584b6ce9888",
+      "f29ca722-b32a-4122-bcb3-603193024f1e",
+      "dfa46169-e120-4e32-93fe-0d35221792ef",
+      "a9253279-c6a1-4cf8-bd21-f6139188d3b7",
+      "c34d2d42-d802-4804-b935-23572bffab3f"
     ]
   }
 ]
