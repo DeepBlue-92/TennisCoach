@@ -1,8 +1,8 @@
 ---
-titel: Teifer Volley 2
+titel: Tiefer Volley 2
 tags: []
 erstelltAm: '2026-06-21T21:32:10.128Z'
-aktualisiertAm: '2026-06-21T21:35:56.933Z'
+aktualisiertAm: '2026-06-21T21:37:13.600Z'
 schemaVersion: '1.0'
 schwierigkeit: 3
 laufintensitaet: 4
